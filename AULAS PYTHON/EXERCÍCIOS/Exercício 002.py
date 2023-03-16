@@ -10,3 +10,4 @@ print(f'Eaí? Pode pá, {nome}')
 
 #forma03
 print('Olá, ' + nome + '. Tudo bem?')
+print('')
