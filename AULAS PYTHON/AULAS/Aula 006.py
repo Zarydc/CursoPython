@@ -9,15 +9,15 @@
 #Para que o valor digitado seja do tipo inteiro, com a finalidade de efetuar cálculos,
 #deve-se usar o TIPO PRIMITIVO "int()", como segue...
 
-n01 = int(input('Digite um valor: '))
-n02 = int(input('Digite outro valor: '))
+#n01 = int(input('Digite um valor: '))
+#n02 = int(input('Digite outro valor: '))
 
-sum = n01 + n02
-sub = n01 - n02 
+#sum = n01 + n02
+#sub = n01 - n02 
 
-print('A soma dos valores digitados vale: ', sum)
+#print('A soma dos valores digitados vale: ', sum)
 
-print('A subtração dos valores digitados vale: ', sub)
+#print('A subtração dos valores digitados vale: ', sub)
 
 
 
@@ -27,9 +27,9 @@ n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
 
 sum = n1 + n2
-sub = n1 + n2 
+sub = n1 - n2 
 
-print()
-
+print(f'A soma entre {n1} e {n2} é igual a ', sum)
+print(f'A subtração entre {n1} e {n2} é igual a ', sub)
 
 
