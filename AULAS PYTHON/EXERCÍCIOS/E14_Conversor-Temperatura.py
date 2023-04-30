@@ -1,7 +1,7 @@
 #Escreva um programa que converta uma temperatura digitando em graus Celsius e converta para:
 #a) Farenheit; b)Kelvin
 
-print('\n\nGRAUS CELSIUS -> GRAUS FARENHEIT\n\n')
+print('\n\nGRAUS CELSIUS -> GRAUS FARENHEIT & GRAUS KELVIN\n\n')
 
 Tc = float(input('Temperatura em °C: '))
 
